@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/5fc8dd23ea909c8818e65.jpg">
+  <img src="https://i.postimg.cc/QtJ5MjNN/20231117-233810.png">
 </p>
 
 <p align="center">
